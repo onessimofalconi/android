@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">aula2_teste</string>
+
+    <!-- login-->
+    <string name="login.titulo">login</string>
+    <string name="login.email">login</string>
+    <string name="login.button">login</string>
+
+    <string name="lorem">dfushfy8dhdgftdhfmdfdfd</string>
+
+</resources>

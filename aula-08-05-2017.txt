@@ -5,6 +5,8 @@ https://github.com/onessimofalconi/android
 nschirmer.dev@gmail.com
 https://github.com/NicolasSchirmer
 
+http://www.devmedia.com.br/android-app-desenvolvendo-e-instalando-uma-aplicacao-passo-a-passo/30039
+
 
 2.3.3 API 10
 	  16 -> 95.7% do mercado
@@ -19,4 +21,20 @@ marshmallow ->vc... sim
 4.7%
 
 Arquitetura
+
+segundo dia:
+https://github.com/nicolasSchirmer/Android-Developer-Path
+
+plugin do chrome 
+octotree (navegar entres os diretórios github)
+
+GSON
+https://mvnrepository.com/artifact/com.google.code.gson/gson/2.8.0
+Segunda aba (Gradle)
+
+
+
+
+
+
 
