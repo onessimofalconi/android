@@ -1,0 +1,7 @@
+https://developer.android.com/guide/topics/ui/dialogs.html
+
+Criação de um fragmento de caixa de diálogo
+
+Material Dialogs
+https://github.com/afollestad/material-dialogs
+Callbacks
