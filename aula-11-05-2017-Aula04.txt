@@ -1,5 +1,3 @@
-
-
 https://developer.android.com/guide/topics/ui/dialogs.html
 
 Criação de um fragmento de caixa de diálogo
