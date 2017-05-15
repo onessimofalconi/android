@@ -1,0 +1,21 @@
+https://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView
+
+http://square.github.io/okhttp/
+
+https://github.com/square/okhttp
+
+GadleScripts-> build.gradle: ->  compile 'com.squareup.okttp3:okttp:3.8.0'
+
+https://github.com/afollestad/material-dialogs:
+  compile 'com.afollestad.material-dialogs:core:0.9.4.4'
+    compile 'com.afollestad.material-dialogs:commons:0.9.4.4'
+
+https://firebase.google.com/?hl=pt-br
+Firebase 
+
+
+
+
+
+
+

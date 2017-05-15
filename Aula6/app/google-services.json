@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "222944334152",
+    "firebase_url": "https://app06-4f14c.firebaseio.com",
+    "project_id": "app06-4f14c",
+    "storage_bucket": "app06-4f14c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222944334152:android:c3817be6145f4e01",
+        "android_client_info": {
+          "package_name": "com.example.sala01.aula6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222944334152-24peag5p15dv7jctkudiep9sngrbuq8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq8MowjydM4_pLvJCjqnGr1B3nU7w5JBM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
