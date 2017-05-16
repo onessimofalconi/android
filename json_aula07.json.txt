@@ -1,0 +1,195 @@
+{
+"results": [
+{
+"gender": "male",
+"name": {
+"title": "mr",
+"first": "ezio",
+"last": "lucas"
+},
+"location": {
+"street": "8582 rue de la mairie",
+"city": "nice",
+"state": "mayenne",
+"postcode": 65164
+},
+"email": "ezio.lucas@example.com",
+"login": {
+"username": "silverduck859",
+"password": "brittney",
+"salt": "kSK1MXlI",
+"md5": "0a5be7409abb7f30aa25930396a40709",
+"sha1": "162bc804aa907440a5211ab488e5fceb03e5c840",
+"sha256": "c7bea673b3fe87638ac1105cf4f8173b31474d6ef1fe3065d3f7e0598b6f81c4"
+},
+"dob": "1962-03-27 11:24:28",
+"registered": "2010-01-14 13:03:38",
+"phone": "04-03-57-58-55",
+"cell": "06-31-28-83-24",
+"id": {
+"name": "INSEE",
+"value": "162234568413 53"
+},
+"picture": {
+"large": "https://randomuser.me/api/portraits/men/78.jpg",
+"medium": "https://randomuser.me/api/portraits/med/men/78.jpg",
+"thumbnail": "https://randomuser.me/api/portraits/thumb/men/78.jpg"
+},
+"nat": "FR"
+},
+{
+"gender": "male",
+"name": {
+"title": "mr",
+"first": "bartjan",
+"last": "van oosten"
+},
+"location": {
+"street": "9562 keistraat",
+"city": "leerdam",
+"state": "groningen",
+"postcode": 55550
+},
+"email": "bartjan.vanoosten@example.com",
+"login": {
+"username": "yellowfish152",
+"password": "cat123",
+"salt": "zJP7fkMp",
+"md5": "101d6403d3a9eb9c51ba462a2f82e07b",
+"sha1": "17245c06d010b33857325dc6fbc26058bc6446cb",
+"sha256": "59dadcfd5c4275ce0f6efa9b186478465670e3854140e49c27392da207c547bc"
+},
+"dob": "1973-03-13 05:31:08",
+"registered": "2005-11-12 02:42:20",
+"phone": "(574)-217-7146",
+"cell": "(344)-766-6817",
+"id": {
+"name": "BSN",
+"value": "52812203"
+},
+"picture": {
+"large": "https://randomuser.me/api/portraits/men/84.jpg",
+"medium": "https://randomuser.me/api/portraits/med/men/84.jpg",
+"thumbnail": "https://randomuser.me/api/portraits/thumb/men/84.jpg"
+},
+"nat": "NL"
+},
+{
+"gender": "male",
+"name": {
+"title": "mr",
+"first": "blake",
+"last": "tremblay"
+},
+"location": {
+"street": "1462 simcoe st",
+"city": "souris",
+"state": "québec",
+"postcode": 97958
+},
+"email": "blake.tremblay@example.com",
+"login": {
+"username": "silverfrog715",
+"password": "benny1",
+"salt": "SytWvBe4",
+"md5": "f6874329ce65e15d002410111025d2d4",
+"sha1": "7609bb6eb99516464fd4b82a932fdb4c876c4d6e",
+"sha256": "ef7f3cd1df23f45205e25ed11ccbb5d34d11b7787cbaba0feecd0993581e1587"
+},
+"dob": "1976-06-16 00:10:28",
+"registered": "2004-01-23 11:30:14",
+"phone": "407-755-3904",
+"cell": "700-984-7194",
+"id": {
+"name": "",
+"value": null
+},
+"picture": {
+"large": "https://randomuser.me/api/portraits/men/21.jpg",
+"medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
+"thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
+},
+"nat": "CA"
+},
+{
+"gender": "male",
+"name": {
+"title": "mr",
+"first": "aiden",
+"last": "de heij"
+},
+"location": {
+"street": "5402 oorsprongpark",
+"city": "oldebroek",
+"state": "zeeland",
+"postcode": 25600
+},
+"email": "aiden.deheij@example.com",
+"login": {
+"username": "tinyelephant149",
+"password": "cabernet",
+"salt": "Dl682VYn",
+"md5": "1e2ec788ed0550000cd0b247ffbff62c",
+"sha1": "91480bac466ec4ed663392c9ed4d3903f1c93abf",
+"sha256": "ffe0b656d2f7a89c9e45a1752929c0513a155324e43b7f7b7b08ab05ada24234"
+},
+"dob": "1992-07-15 20:03:34",
+"registered": "2014-11-13 05:13:28",
+"phone": "(536)-706-2774",
+"cell": "(435)-177-3757",
+"id": {
+"name": "BSN",
+"value": "00243178"
+},
+"picture": {
+"large": "https://randomuser.me/api/portraits/men/62.jpg",
+"medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+"thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+},
+"nat": "NL"
+},
+{
+"gender": "female",
+"name": {
+"title": "mademoiselle",
+"first": "anaïs",
+"last": "meyer"
+},
+"location": {
+"street": "8806 avenue joliot curie",
+"city": "servion",
+"state": "aargau",
+"postcode": 8285
+},
+"email": "anaïs.meyer@example.com",
+"login": {
+"username": "greenmeercat767",
+"password": "coconut",
+"salt": "0UziH3xe",
+"md5": "38a164f38314a283722fe5031fb5c5bc",
+"sha1": "b6db27edd8152b7e8c3b4c7988f1554fd318b5da",
+"sha256": "93e55cc6176e63e6402fd9d8fbe3f0b7f7ef35f05e3021062163fe8038680fb8"
+},
+"dob": "1973-03-14 17:22:36",
+"registered": "2008-04-11 01:40:34",
+"phone": "(996)-380-0676",
+"cell": "(134)-795-7899",
+"id": {
+"name": "AVS",
+"value": "756.FYXD.NQEA.85"
+},
+"picture": {
+"large": "https://randomuser.me/api/portraits/women/7.jpg",
+"medium": "https://randomuser.me/api/portraits/med/women/7.jpg",
+"thumbnail": "https://randomuser.me/api/portraits/thumb/women/7.jpg"
+},
+"nat": "CH"
+}
+],
+"info": {
+"seed": "7be3df35a566f902",
+"results": 5,
+"page": 1,
+"version": "1.1"
+}
+}

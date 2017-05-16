@@ -1,0 +1,4 @@
+https://github.com/nicolasSchirmer/Android-FIFXIII
+
+https://github.com/nicolasSchirmer/Android-FIFXIII/blob/master/app/src/main/java/app/fifxiii/Activity/ScheduleActivity.java
+
