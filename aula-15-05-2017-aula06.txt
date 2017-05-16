@@ -13,7 +13,12 @@ https://github.com/afollestad/material-dialogs:
 https://firebase.google.com/?hl=pt-br
 Firebase 
 
+colocar no manifest
+https://developer.android.com/training/basics/network-ops/connecting.html
+<uses-permission android:name="android.permission.INTERNET" />
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
+http://stackoverflow.com/questions/16161448/how-to-make-layout-with-rounded-corners
 
 
 
