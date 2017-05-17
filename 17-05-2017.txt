@@ -1,0 +1,26 @@
+Telegram
+https://telegram.org/
+@PlacaBot
+@onessimofalconi
+
+examples.javacodegeeks.com/android/core/activity/android-start-service-boot-example
+
+
+google keep:
+adapter com gridview
+
+alarm vai no service dentro do broadcast service:
+
+http://stackoverflow.com/questions/8321443/how-to-start-service-using-alarm-manager-in-android
+
+Google maps
+https://developers.google.com/maps/documentation/android-api/start
+
+https://console.developers.google.com/cloud-resource-manager?previousPage=%2F%3Fpli%3D1&pli=1
+
+
+
+
+
+
+
